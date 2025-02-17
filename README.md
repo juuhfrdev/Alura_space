@@ -1,6 +1,6 @@
 <!-- MODELO PROJETO FINALIZADO -->
 <h1 align="center"> 
-	  🚀✅ {Alura_space} - Concluído ✅🚀
+	  🚀✅ Alura_space - Concluído ✅🚀
 </h1>
 
 <!-- ---------------------------------------------------------------------- -->
